@@ -1,9 +1,9 @@
 # project-framework-js
 
-Bonjour Monsieur 👋
+## Bonjour Monsieur 👋
 Nous somme des Étudiants L3 en Génie Informatique à l'ISSTM
 
-- **## Membres:**
+- ## **Membres:**
  - RALIZARA Ely Judo
  - FANOMEZANJANAHARY Jerry Pascal Dinho
  - ABDOUL Fatah Yazid
