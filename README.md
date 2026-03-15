@@ -1,7 +1,7 @@
 # project-framework-js
 
 Bonjour Monsieur 👋
-##Nous somme des Étudiants L3 en Génie Informatique à l'ISSTM
+Nous somme des Étudiants L3 en Génie Informatique à l'ISSTM
 
 - **##Membres:**
  - RALIZARA Ely Judo
